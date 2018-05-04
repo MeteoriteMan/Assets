@@ -1,0 +1,2 @@
+# Assets
+Warehouse resource file
