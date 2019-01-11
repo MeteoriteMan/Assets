@@ -33,4 +33,4 @@
 
 ### iOS12
 [12.0](https://github.com/MeteoriteMan/Assets/blob/master/DeviceSupport/12.0.zip?raw=ture)
-[12.1](https://github.com/MeteoriteMan/Assets/blob/master/DeviceSupport/12.1 (16B91).zip?raw=ture)
+[12.1](https://github.com/MeteoriteMan/Assets/blob/master/DeviceSupport/12.1.zip?raw=ture)
