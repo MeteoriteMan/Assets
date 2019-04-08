@@ -1,0 +1,13 @@
+## FilePath:/文件放入路径:
+```
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/DeviceSupport
+```
+
+## ClickToDownLoad/点击下载
+
+|版本|下载链接|
+|:--|:--|
+|9.0 - 9.2| [9.0](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/9.0.zip?raw=ture) [9.1](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/9.1.zip?raw=ture) [9.2](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/9.2.zip?raw=ture) |
+|10.0 - 10.2| [10.0](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/10.0.zip?raw=ture) [10.1](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/10.1.zip?raw=ture) [10.2](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/10.2.zip?raw=ture) |
+|11.0 - 11.4| [11.0](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/11.0.zip?raw=ture) [11.1](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/11.1.zip?raw=ture) [11.2](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/11.2.zip?raw=ture) [11.3](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/11.3.zip?raw=ture) [11.4](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/11.4.zip?raw=ture) |
+|12.0 - 12.2| [12.0](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/12.0.zip?raw=ture) [12.1](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/12.1.zip?raw=ture) [12.2](https://github.com/MeteoriteMan/Assets/blob/master/platform/AppleTVOS.platform/DeviceSupport/12.2.zip?raw=ture) |
